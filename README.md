@@ -14,3 +14,6 @@ Version 1.0:
 *Store Keys in .Txt File on Phone
 
 It is licensed under GNU General Public License v3.0 to allow for further development if anyone else feels the desire to, granted the platform is limited in its abilities. Would also make a great base for other crypto web wallets.
+
+
+For more info check out: https://terafoundation.org
